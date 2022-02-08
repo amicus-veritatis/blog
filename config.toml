@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Amicus Veritatis Tech Blog"
 languageCode = "ko-kr"
-baseURL = "https://example.org/"
+baseURL = "https://amicus-veritatis.github.io/"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
