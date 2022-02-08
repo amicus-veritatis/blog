@@ -46,6 +46,7 @@ baseURL = "https://example.org/"
 # over prismjs, remove this. You will also need to remove the prismjs
 # vendor script in layouts/blog/single.html.
 [markup]
+taskLists = false
   [markup.highlight]
     codeFences = false
     
@@ -67,4 +68,8 @@ baseURL = "https://example.org/"
   url = "/blog"
 
 
-
+[[menu.main]]
+  identifier = "study/Linear Algebra"
+  name = "study/Linear Algebra"
+  title = "Linear Algebra"
+  url = "/study/LinearAlgebra"
