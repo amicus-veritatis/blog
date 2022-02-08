@@ -16,7 +16,7 @@ baseURL = "https://amicus-veritatis.github.io/"
 [params]
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "2006 02 01"
+  dateFormat = "2006-01-02"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   #twitter = "https://twitter.com/<your handle>"
