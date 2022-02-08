@@ -69,7 +69,7 @@ taskLists = false
 
 
 [[menu.main]]
-  identifier = "study/Linear Algebra"
+  identifier = "Linear Algebra"
   name = "study/Linear Algebra"
   title = "Linear Algebra"
   url = "/study/LinearAlgebra"
