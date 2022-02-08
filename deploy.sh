@@ -1,4 +1,4 @@
-hugo -t hugo-theme-codex
+hugo -D -t hugo-theme-codex
 cd public
 git add .
 git add ./*
